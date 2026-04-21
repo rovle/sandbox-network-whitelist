@@ -327,3 +327,8 @@ shopify:
 
 mesa:
   - "*.mesa.dev"
+
+# USAspending.gov (federal spending data API + bulk downloads)
+usaspending:
+  - api.usaspending.gov
+  - files.usaspending.gov
